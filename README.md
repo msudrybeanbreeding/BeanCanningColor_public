@@ -33,12 +33,13 @@ Canning_segmentation/
 Components
 Training Pipeline
 The training pipeline is responsible for:
---> Dataset loading
---> Model initialization
---> Hyperparameter configuration
---> Training and validation
---> Checkpoint generation
---> Logging
+
+- Dataset loading
+- Model initialization
+- Hyperparameter configuration
+- Training and validation
+- Checkpoint generation
+- Logging
 
 All training-related scripts and documentation are located inside:
 Training-Pipeline/
