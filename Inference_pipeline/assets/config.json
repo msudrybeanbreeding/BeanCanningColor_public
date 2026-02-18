@@ -1,0 +1,79 @@
+{
+  "Black": {
+    "L": 0,
+    "A": 0,
+    "B": 0,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "LRK": {
+    "L": 35,
+    "A": 22,
+    "B": 19,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "Cran": {
+    "L": 52,
+    "A": 11,
+    "B": 26,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "GN": {
+    "L": 69,
+    "A": -1,
+    "B": 11,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "WK": {
+    "L": 100,
+    "A": 0,
+    "B": 0,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "Navy": {
+    "L": 70,
+    "A": 0,
+    "B": 3,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "Pinto": {
+    "L": 58,
+    "A": 6,
+    "B": 10,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "Yellow": {
+    "L": 66,
+    "A": 2,
+    "B": 36,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "DRK": {
+    "L": 40,
+    "A": 20,
+    "B": 8,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "Otebo": {
+    "L": 74,
+    "A": 3,
+    "B": 14,
+    "Min Distance": -1,
+    "Max Distance": -1
+  },
+  "SMR": {
+    "L": 41,
+    "A": 10,
+    "B": 4,
+    "Min Distance": -1,
+    "Max Distance": -1
+  }
+}
