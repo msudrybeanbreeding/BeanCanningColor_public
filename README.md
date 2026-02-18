@@ -1,13 +1,11 @@
 Deep learning and computer vision for image-based high-throughput phenotyping of canning quality traits in dry beans
+
 Authors: Lovepreet Singh, Om Sai Krishna Madhav Lella, Evan M. Wright, Karen Cichy and Valerio Hoyos-Villegas*
 *Corresponding Authors: hoyosval@msu.edu
 
-
 Training and Inference Pipelines:
 
-This repository contains the complete training and inference pipelines for a custom deep learning and computer vision based detection, segmentation and downstream metric computation for canning color evaluation in dry beans.
-
-The scientific application and experimental context are described in the associated publication. This repository focuses strictly on computational implementation, structure, and reproducibility.
+This repository contains the complete training and inference pipelines for a custom deep learning and computer vision based detection, segmentation and downstream metric computation for canning color evaluation in dry beans. The scientific application and experimental context are described in the associated publication. This repository focuses strictly on computational implementation, structure, and reproducibility.
 
 ```
 Canning_segmentation/
@@ -32,23 +30,15 @@ Canning_segmentation/
 └── README.md
 ```
 
-
 Components
 Training Pipeline
-
 The training pipeline is responsible for:
-
-Dataset loading
-
-Model initialization
-
-Hyperparameter configuration
-
-Training and validation
-
-Checkpoint generation
-
-Logging
+--> Dataset loading
+--> Model initialization
+--> Hyperparameter configuration
+--> Training and validation
+--> Checkpoint generation
+--> Logging
 
 All training-related scripts and documentation are located inside:
 Training-Pipeline/
