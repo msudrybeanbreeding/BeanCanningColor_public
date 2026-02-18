@@ -9,7 +9,7 @@ Training and Inference Pipelines:
 This repository contains the complete training and inference pipelines for a custom deep learning and computer vision based detection, segmentation and downstream metric computation for canning color evaluation in dry beans. The scientific application and experimental context are described in the associated publication. This repository focuses strictly on computational implementation, structure, and reproducibility.
 
 ```
-Canning_segmentation/
+BeanCanningColor_public/
 │
 ├── Training-Pipeline/
 │   ├── train.py
