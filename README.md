@@ -1,6 +1,6 @@
 ## **Deep learning and computer vision for image-based high-throughput phenotyping of canning quality traits in dry beans**
 
-Authors: Lovepreet Singh, Om Sai Krishna Madhav Lella, Evan M. Wright, Karen Cichy and Valerio Hoyos-Villegas*
+**Authors: Lovepreet Singh, Om Sai Krishna Madhav Lella, Evan M. Wright, Karen Cichy and Valerio Hoyos-Villegas***
 
 *Corresponding Author: hoyosval@msu.edu
 
