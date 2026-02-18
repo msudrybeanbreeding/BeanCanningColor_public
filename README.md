@@ -9,7 +9,7 @@ This repository contains the complete training and inference pipelines for a cus
 
 The scientific application and experimental context are described in the associated publication. This repository focuses strictly on computational implementation, structure, and reproducibility.
 
-<pre> ```text Canning_segmentation/ │ ├── Training-Pipeline/ │ ├── train.py │ ├── train_job_script.sh │ ├── requirements.txt │ └── README.md │ ├── Canned-Beans-Inference-Pipeline/ │ ├── inference.py │ ├── inference_job_script.sh │ ├── requirements.txt │ ├── assets/ │ ├── input/ │ ├── models/ │ ├── output/ │ ├── src/ │ └── README.md │ └── README.md ``` </pre>
+ ```text Canning_segmentation/ │ ├── Training-Pipeline/ │ ├── train.py │ ├── train_job_script.sh │ ├── requirements.txt │ └── README.md │ ├── Canned-Beans-Inference-Pipeline/ │ ├── inference.py │ ├── inference_job_script.sh │ ├── requirements.txt │ ├── assets/ │ ├── input/ │ ├── models/ │ ├── output/ │ ├── src/ │ └── README.md │ └── README.md ``` 
 
 
 Components
